@@ -338,8 +338,8 @@
     <None Include="ILMerge.props" />
     <None Include="ILMergeConfig.json" />
     <None Include="packages.config" />
-    <None Include="resource\anim\assets\Asteroid_minibase\Asteroid_minibase_anim.bytes" />
-    <None Include="resource\anim\assets\Asteroid_minibase\Asteroid_minibase_build.bytes" />
+    <None Include="resource\anim-back\assets\Asteroid_minibase\Asteroid_minibase_anim.bytes" />
+    <None Include="resource\anim-back\assets\Asteroid_minibase\Asteroid_minibase_build.bytes" />
     <None Include="resource\mod.yaml" />
     <None Include="resource\mod_info.yaml" />
     <None Include="resource\worldgen\clusters\MiniBase.yaml" />
@@ -350,7 +350,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="README.txt" />
-    <Content Include="resource\anim\assets\Asteroid_minibase\Asteroid_minibase_0.png" />
+    <Content Include="resource\anim-back\assets\Asteroid_minibase\Asteroid_minibase_0.png" />
     <Content Include="resource\PLib.dll" />
     <Content Include="resource\PLib.xml" />
   </ItemGroup>

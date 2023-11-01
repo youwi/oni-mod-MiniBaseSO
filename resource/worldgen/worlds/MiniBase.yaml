@@ -1,7 +1,7 @@
 name: STRINGS.WORLDS.MINIBASE.NAME
 description: STRINGS.WORLDS.MINIBASE.DESCRIPTION
 disableWorldTraits: true
-asteroidIcon: Asteroid_minibase_kanim
+asteroidIcon: asteroid_swamp_rocket_kanim
 
 worldTraitScale: 0.00
 worldsize:
