@@ -550,6 +550,7 @@ namespace MiniBase
             int leftCenterX = (Left(true) + Left(false)) / 2;
             int rightCenterX = (Right(false) + Right(true)) / 2;
             int adjustedCornerSize = CORNER_SIZE + (int)Math.Ceiling(BORDER_SIZE / 2f);
+            adjustedCornerSize = 0;//强制修改为0
             for (int i = 0; i < adjustedCornerSize; i++)
                 for (int j = adjustedCornerSize; j > i; j--)
                 {
